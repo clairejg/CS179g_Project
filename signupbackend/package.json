@@ -1,0 +1,19 @@
+{
+  "name": "signupbackend",
+  "version": "1.0.0",
+  "description": "sign up application",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+ },
+
+  "author": "claire jk joo",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "mongoose": "^6.3.8",
+    "nodemon": "^2.0.16"
+  }
+}
